@@ -1,0 +1,13 @@
+{
+  "name": "node-chat-raryosu",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+      "start": "node server"
+    },
+
+  "engine": {
+      "node": "v0.11.x",
+      "npm": "2.3.x"
+    }
+}
